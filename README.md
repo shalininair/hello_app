@@ -1,5 +1,7 @@
 
-# Hello world Rails app from chapter 1 of mhartl's rails tutorial @ https://www.railstutorial.org/book/ 
+# Hello world - a Rails app
+
+Derived from chapter 1 of mhartl's rails tutorial  https://www.railstutorial.org/book/ 
 
 * Ruby version : ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
 
