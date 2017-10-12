@@ -7,14 +7,17 @@ Derived from chapter 1 of mhartl's rails tutorial  https://www.railstutorial.org
 
 * Rails version : 5.1.2
 
+* Continuous Integration tool : Semaphore CI 
+
 * No migration is created for this app
 
-* Repoed on Bitbucket
+* CI status on BitBucket 
+  [![Build Status ](https://semaphoreci.com/api/v1/projects/19b06668-c5c3-4dd7-a590-f80d07db9f7c/1565055/badge.svg)](https://semaphoreci.com/shalininair/hello_app)
 
-* Deployed on heroku
+* CI status on Github
+[![Build Status](https://semaphoreci.com/api/v1/shalininair/hello_app_github/branches/master/badge.svg)](https://semaphoreci.com/shalininair/hello_app_github)
 
-
-[![Build Status](https://semaphoreci.com/api/v1/projects/19b06668-c5c3-4dd7-a590-f80d07db9f7c/1565055/badge.svg)](https://semaphoreci.com/shalininair/hello_app)
+* Deployed on heroku from BitBucket repo
 
 ## Getting started
 
